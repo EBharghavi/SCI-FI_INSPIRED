@@ -1,0 +1,52 @@
+[
+    {
+        "segment": 0,
+        "probability": 0.6119,
+        "recommendation": "Abnormal activity detected. Consider neurofeedback therapy."
+    },
+    {
+        "segment": 1,
+        "probability": 0.3075,
+        "recommendation": "Normal brain activity"
+    },
+    {
+        "segment": 2,
+        "probability": 0.0148,
+        "recommendation": "Normal brain activity"
+    },
+    {
+        "segment": 3,
+        "probability": 0.2571,
+        "recommendation": "Normal brain activity"
+    },
+    {
+        "segment": 4,
+        "probability": 0.4084,
+        "recommendation": "Normal brain activity"
+    },
+    {
+        "segment": 5,
+        "probability": 0.0962,
+        "recommendation": "Normal brain activity"
+    },
+    {
+        "segment": 6,
+        "probability": 0.3804,
+        "recommendation": "Normal brain activity"
+    },
+    {
+        "segment": 7,
+        "probability": 0.7881,
+        "recommendation": "Abnormal activity detected. Consider neurofeedback therapy."
+    },
+    {
+        "segment": 8,
+        "probability": 0.5656,
+        "recommendation": "Abnormal activity detected. Consider neurofeedback therapy."
+    },
+    {
+        "segment": 9,
+        "probability": 0.3782,
+        "recommendation": "Normal brain activity"
+    }
+]
