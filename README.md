@@ -50,25 +50,6 @@ Many amputees suffer from phantom limb pain and difficulty in adapting to prosth
 - Multi-user support for clinical testing.
 - Gamified therapy sessions for motivation and engagement.
 
-## 📂 Project Structure (Sample)
-
-
-vr-eeg-amputee/
-├── eeg_processing/
-│   └── signal_analysis.py
-├── vr_environment/
-│   └── unity_project/
-├── ai_recommendation/
-│   └── model.py
-├── database/
-│   └── schema.sql
-├── api/
-│   └── server.py
-├── dashboard/
-│   └── frontend_app/
-└── README.md
-
-
 ## 👥 Team & Credits
 
 Developed by a passionate team of engineers, neuroscientists, and designers committed to making a difference in the lives of amputees.
